@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://musical-baklava-16021f.netlify.app" target="_blank">
+<a href="https://dip-qr-code-scanner.netlify.app/" target="_blank">
 <img src="QR.png" width="400" alt="QR Scanner Logo"></a></p>
 
 
