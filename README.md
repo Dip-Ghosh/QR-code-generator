@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://musical-baklava-16021f.netlify.app" target="_blank">
-<img src="QR.png" width="800" alt="QR Scanner Logo"></a></p>
+<img src="QR.png" width="400" alt="QR Scanner Logo"></a></p>
 
 
 
