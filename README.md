@@ -6,13 +6,13 @@
 
 ## About QR Scanner
 
-This is a pure javascript project. Tailwind css, Pure Javascripts and QR code package is used here
+This is a pure javascript project. Tailwind css, Pure Javascripts and QR code package is used here 
 
 
 ## Sponsors
 
 We would like to extend our thanks to the following sponsors for funding development. 
-If you are interested in becoming a sponsor, please visit the  [https://www.linkedin.com/in/dip-ghosh/).
+If you are interested in becoming a sponsor, please visit the  [https://dip-qr-code-scanner.netlify.app/).
 
 
 
