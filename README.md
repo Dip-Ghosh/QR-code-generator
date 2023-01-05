@@ -4,7 +4,7 @@
 
 
 
-## About QR Scanner
+## About QR Scanner9
 
 This is a pure javascript project. Tailwind css, Pure Javascripts and QR code package is used here 
 
